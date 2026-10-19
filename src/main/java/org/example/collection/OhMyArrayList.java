@@ -1,4 +1,4 @@
 package org.example.collection;
 
-public interface OhList {
+public class OhMyArrayList {
 }
